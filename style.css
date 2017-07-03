@@ -51,5 +51,5 @@ body {
   clear: left;
 }
 .box-wrapper .box-alphabet span {
-  text-shadow: 0 2px 0 #9b9b9b, -2px 0 0 #9b9b9b, 0 -1px 0 #9b9b9b;
+  text-shadow: 0 2px 0 #9b9b9b, 1px 0 0 #9b9b9b, -2px 0 0 #9b9b9b, 0 -1px 0 #9b9b9b;
 }
